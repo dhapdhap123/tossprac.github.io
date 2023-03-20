@@ -1,6 +1,7 @@
 /* whole */
 body{
     margin: 10px auto;
+    min-width: 440px;
 }
 .container{
     height: 100%;
